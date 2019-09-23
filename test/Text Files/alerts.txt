@@ -1,0 +1,4 @@
+ALERT 5$ bills are low 
+ALERT 10$ bills are low 
+ALERT 20$ bills are low 
+ALERT 50$ bills are low 
