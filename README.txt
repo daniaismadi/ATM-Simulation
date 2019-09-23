@@ -1,4 +1,6 @@
-﻿(Important note) To use Stock functions follow these steps:
+# Instructions for ATM program use
+
+(Important note) To use Stock functions follow these steps:
 Install Maven Library for JSON:
 File > Project Structure > Project Settings > Libraries
 Click on the + sing on the top left corner > From Maven
